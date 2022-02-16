@@ -11,8 +11,10 @@
         }
     },
     "extra":{
-        "Laravel": [
-            "Toukyyeasir\\Form\\FormserviceProvider"
+        "Laravel": {
+            "providers":[
+            "Toukyyeasir\\Form\\FormServiceProvider"
         ]
+    }
     }
 }
