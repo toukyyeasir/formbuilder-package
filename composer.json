@@ -1,0 +1,13 @@
+{
+    "name": "toukyyeasir/form",
+    "description": "it is a formbuilder package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Toukyyeasir\\Form\\": "src/"
+        }
+    }
+}
