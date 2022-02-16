@@ -9,5 +9,10 @@
         "psr-4": {
             "Toukyyeasir\\Form\\": "src/"
         }
+    },
+    "extra":{
+        "Laravel": [
+            "Toukyyeasir\\Form\\FormserviceProvider"
+        ]
     }
 }
